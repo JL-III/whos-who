@@ -100,7 +100,7 @@ const Home = () => {
 
   return (
     <React.Fragment>
-      <div className="AllSite">
+      <div className="AllSite" style={{ backgroundColor: "darkGray" }}>
         <Route exact path="/">
           <Grid container spacing={2}>
             <Grid xs={7}>

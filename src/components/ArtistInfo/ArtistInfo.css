@@ -1,9 +1,7 @@
 .ArtistInfo {
   display: flex;
   flex-direction: column;
-  background-color: aliceblue;
-  margin-left: 1vw;
-  margin-right: 1vw;
+  background-color: rgb(43, 255, 184);
   height: 15%;
   width: 18vw;
 }
