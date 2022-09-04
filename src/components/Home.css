@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+  background-color: gray;
+}
+
+a {
+  text-decoration: none;
+}
+
+.AllSite h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.AllHome {
+  display: flex;
+  justify-content: center;
+}
+
+.Options {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50vw;
+}
+
+.Options Select {
+  width: 40%;
+  margin-bottom: 1vw;
+}
+
+.Options Button {
+  margin-top: 1vw;
+  background-color: cadetblue;
+  border-radius: 5px;
+}
